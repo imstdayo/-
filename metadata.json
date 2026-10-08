@@ -1,0 +1,10 @@
+{
+  "name": "Remix テスト範囲・学習管理オーガナイザー",
+  "description": "テスト前の迷子をなくす学習ナビゲーションアプリ。Google Classroom連携、テスト範囲整理、提出期限アラート、今日やることナビ、AI必要時間推定、カメラ答案分析",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
